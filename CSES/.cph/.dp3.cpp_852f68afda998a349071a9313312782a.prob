@@ -1,0 +1,1 @@
+{"name":"Local: dp3","url":"/home/asus/Desktop/IIIT/cp/CSES/dp3.cpp","tests":[{"id":1661838771265,"input":"3 11\n1 5 7","output":"3"},{"id":1661839036074,"input":"3 2\n1 5 7","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asus/Desktop/IIIT/cp/CSES/dp3.cpp","group":"local","local":true}
